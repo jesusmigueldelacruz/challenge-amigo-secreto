@@ -16,7 +16,7 @@ Este proyecto es una aplicación web que permite a los usuarios ingresar una lis
 ## Cómo usarlo
 Aquí tienes un video demostrativo sobre cómo utilizar la aplicación:
 
-[![Ver demostración](assets/demostracion.mp4)](assets/demostracion.mp4)
+[![Ver demostración](assets/demostracion.gif)](assets/demostracion.gif)
 
 ## Proyecto en producción
 Puedes acceder a la versión desplegada en Vercel a través del siguiente enlace:
